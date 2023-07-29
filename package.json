@@ -1,0 +1,12 @@
+{
+  "name": "expat-invoicing",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "invoicing application built with the MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon",
+  "license": "ISC"
+}
